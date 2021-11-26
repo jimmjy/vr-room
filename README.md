@@ -10,7 +10,7 @@ how to get this:
   
   <img width="536" alt="Screen Shot 2021-11-25 at 9 06 28 PM" src="https://user-images.githubusercontent.com/26906142/143516077-ce8045ac-666a-4ba9-92df-7d3dd0327530.png">
 
-  open terminal and navigate to a folder.  type: ls to see folders, type cd "folder name" to go into folder.  type the name as 1 word without quotes.  Once where you want, paste the thing you copied from here and press enter, follow prompts
+  open terminal and navigate to a folder.  type: ls to see folders, type cd "folder name" to go into folder.  type the name as 1 word without quotes.  Once where you want, paste the thing you copied from here after typing git clone and press enter, follow prompts, e.g. git clone 'copied url here'
   
   after it downloads, cd into the folder name e.g. cd vr-room .  
   inside that folder, type npm install, a bunch of things should install.
